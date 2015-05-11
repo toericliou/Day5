@@ -36,4 +36,8 @@ public class MySaveableListener extends SaveableListener {
         return SystemFileFilter.accepts(new File(file.toString()));
     }
 
+    public static Logger getLog(){
+        return LOG;
+    }
+
 }
