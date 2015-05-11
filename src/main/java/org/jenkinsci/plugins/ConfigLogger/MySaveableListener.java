@@ -21,15 +21,11 @@ public class MySaveableListener extends SaveableListener {
 
     @Override
     public void onChange(final Saveable o, final XmlFile file){
-        if(shouldLog(file))
+        if(isConfigFile(file) || isSystemFile(file))
             LOG.log(INFO, "SETTINGS SAVED FOR {0}", file.toString());
 
         else
             LOG.log(INFO, "NOT A CONFIGFILE SAVED for {0}", file.toString());
-    }
-
-    private boolean shouldLog (XmlFile file){
-        return isConfigFile(file) || isSystemFile(file);
     }
 
     private boolean isConfigFile(XmlFile file){
