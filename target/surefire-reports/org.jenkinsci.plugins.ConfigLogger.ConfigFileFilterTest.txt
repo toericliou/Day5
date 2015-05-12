@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.jenkinsci.plugins.ConfigLogger.ConfigFileFilterTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.921 sec - in org.jenkinsci.plugins.ConfigLogger.ConfigFileFilterTest

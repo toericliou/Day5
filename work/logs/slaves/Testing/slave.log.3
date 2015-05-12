@@ -1,0 +1,11 @@
+[05/12/15 10:01:03] [SSH] Opening SSH connection to :22.
+hudson.AbortException: Cannot find SSH User credentials with id: null
+	at hudson.plugins.sshslaves.SSHLauncher.openConnection(SSHLauncher.java:1228)
+	at hudson.plugins.sshslaves.SSHLauncher$2.call(SSHLauncher.java:696)
+	at hudson.plugins.sshslaves.SSHLauncher$2.call(SSHLauncher.java:691)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+[05/12/15 10:01:03] Launch failed - cleaning up connection
+[05/12/15 10:01:03] [SSH] Connection closed.

@@ -1,0 +1,82 @@
+Exploding /home/eerilio/.m2/repository/org/jenkins-ci/main/jenkins-war/1.580.1/jenkins-war-1.580.1-war-for-test.jar into /home/eerilio/Documents/Config-Logger/./target/jenkins-for-testx
+May 11, 2015 4:08:20 PM org.mortbay.log.Slf4jLog info
+INFO: Logging to org.slf4j.impl.JDK14LoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog
+May 11, 2015 4:08:20 PM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+May 11, 2015 4:08:20 PM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+May 11, 2015 4:08:20 PM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:38446
+May 11, 2015 4:08:20 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+May 11, 2015 4:08:28 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/hudson.model.UpdateCenter.xml
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/nodeMonitors.xml
+May 11, 2015 4:08:33 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MyComputerListener onConfigurationChange
+INFO: Configuration Change to Slave node
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/config.xml
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/jenkins.model.JenkinsLocationConfiguration.xml
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/jenkins.model.JenkinsLocationConfiguration.xml
+May 11, 2015 4:08:33 PM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+May 11, 2015 4:08:33 PM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:58442
+May 11, 2015 4:08:33 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/hudson.model.UpdateCenter.xml
+May 11, 2015 4:08:35 PM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:38446
+May 11, 2015 4:08:35 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson7890391770523186761test/queue.xml
+May 11, 2015 4:08:35 PM org.mortbay.log.Slf4jLog info
+INFO: jetty-6.1.26
+May 11, 2015 4:08:35 PM org.mortbay.log.Slf4jLog info
+INFO: NO JSP Support for , did not find org.apache.jasper.servlet.JspServlet
+May 11, 2015 4:08:35 PM org.mortbay.log.Slf4jLog info
+INFO: Started SocketConnector@0.0.0.0:46894
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+May 11, 2015 4:08:35 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/hudson.model.UpdateCenter.xml
+May 11, 2015 4:08:36 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MyComputerListener onConfigurationChange
+INFO: Configuration Change to Slave node
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/config.xml
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/jenkins.model.JenkinsLocationConfiguration.xml
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/jenkins.model.JenkinsLocationConfiguration.xml
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/hudson.model.UpdateCenter.xml
+=== Starting CliSanityTest.testCliSanity
+May 11, 2015 4:08:36 PM org.mortbay.log.Slf4jLog info
+INFO: Stopped SocketConnector@0.0.0.0:46894
+May 11, 2015 4:08:36 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson3860580419976829308test/queue.xml

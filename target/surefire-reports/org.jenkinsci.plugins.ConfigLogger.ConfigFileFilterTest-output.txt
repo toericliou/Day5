@@ -1,0 +1,32 @@
+Exploding /home/eerilio/.m2/repository/org/jenkins-ci/main/jenkins-war/1.580.1/jenkins-war-1.580.1-war-for-test.jar into /home/eerilio/Documents/Config-Logger/./target/jenkins-for-test
+May 11, 2015 4:08:20 PM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:54865/jenkins/
+May 11, 2015 4:08:20 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+May 11, 2015 4:08:24 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+May 11, 2015 4:08:27 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/hudson.model.UpdateCenter.xml
+May 11, 2015 4:08:31 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/nodeMonitors.xml
+May 11, 2015 4:08:31 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+May 11, 2015 4:08:31 PM org.jenkinsci.plugins.ConfigLogger.MyComputerListener onConfigurationChange
+INFO: Configuration Change to Slave node
+May 11, 2015 4:08:32 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/config.xml
+May 11, 2015 4:08:32 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/hudson.model.UpdateCenter.xml
+May 11, 2015 4:08:32 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/jenkins.model.JenkinsLocationConfiguration.xml
+=== Starting testAccepts(org.jenkinsci.plugins.ConfigLogger.ConfigFileFilterTest)
+May 11, 2015 4:08:32 PM org.jenkinsci.plugins.ConfigLogger.MySaveableListener onChange
+INFO: SETTINGS SAVED FOR /tmp/hudson4083935724159803271test/queue.xml
